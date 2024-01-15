@@ -1,0 +1,40 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'OPT_STEP_2'
+_cell_length_a                         5.522519
+_cell_length_b                         6.790863
+_cell_length_c                         9.345013
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       94.894737
+_cell_angle_gamma                      90.000000
+_cell_volume                           349.184790
+_space_group_name_H-M_alt              'P 21/n'
+_space_group_IT_number                 14
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-x+1/2, y+1/2, -z+1/2'
+   'x+1/2, -y+1/2, z+1/2'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   CA1        1.0     0.224191     0.346042     0.432244    Uiso  ? Ca
+   CA2        1.0     0.218742    -0.002835    -0.300919    Uiso  ? Ca
+   SI3        1.0     0.269044    -0.218481     0.417394    Uiso  ? Si
+   O4         1.0     0.217350     0.014846     0.441462    Uiso  ? O
+   O5         1.0     0.011088    -0.334303     0.362217    Uiso  ? O
+   O6         1.0     0.480873    -0.249104     0.304209    Uiso  ? O
+   O7         1.0     0.349752    -0.332124    -0.427078    Uiso  ? O
