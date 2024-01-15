@@ -1,5 +1,5 @@
 ## 🪨🪨🪨 Overview 🪨🪨🪨
-This repository contains supporting information for the article titled "JeffCement" published in the Journal of the American Ceramic Society (JACerS). The dataset includes CIF (Crystallographic Information File) and XYZ (Cartesian coordinate file) formats relevant to the research presented in the article.
+This repository contains supporting information for the article titled "_Mechanical and Dynamical Stability of Major Oxide Constituents of Portland Cement Clinker: A Density Functional Theory Study_" published in the Journal of the American Ceramic Society (JACerS). The dataset includes CIF (Crystallographic Information File) and XYZ (Cartesian coordinate file) formats relevant to the research presented in the article.
 
 ## Article Information 📃
 - Title: "_Mechanical and Dynamical Stability of Major Oxide Constituents of Portland Cement Clinker: A Density Functional Theory Study_".
