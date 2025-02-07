@@ -11,6 +11,18 @@ This repository contains supporting information for the article titled "_Mechani
 
 ## Citation 📝
 If you use the data provided in this repository, please cite the original article
+```bibtex
+@article{maul2024mechanical,
+  title={Mechanical and dynamical stability of major oxide constituents of Portland cement clinker: A density functional theory study},
+  author={Maul, Jefferson and Mitoli, Davide and Erba, Alessandro and Dutra, Ricardo PS},
+  journal={Journal of the American Ceramic Society},
+  volume={107},
+  number={7},
+  pages={4664--4678},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+```
 
 ## Contact ☎️
 For any inquiries or issues related to the dataset or repository, please contact the corresponding author of the article:
